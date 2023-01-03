@@ -30,6 +30,7 @@ N. Trefethen
 M. Embree
 T. Daudé
 D. Krejčiřík
+R. Teixeira da Costa (?)
 
 
 Physics:
