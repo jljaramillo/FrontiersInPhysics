@@ -53,12 +53,17 @@ Zhidenko
 Konoplya 
 Kyriakos Destounis
 Valentin Boyanov
+Koutarou Kyutoku, Hayato Motohashi, Takahiro Tanaka
+
 
 Hyperboloidal:
 Gajic, Warnick
 D. Hilditch
 A. Zenginoglu
 A. Ashtekar
+
+
+
 
 Asymptotic symmetries?
 
@@ -68,8 +73,9 @@ To discuss 13/01/2022:
 
 - Matthew Colbrook
 - Rim Al Majdalany
-- Harvard CMSA GR Seminar Invitation
+- Harvard CMSA GR Seminar Invitation: March 
 - Bradley Cownden
+- QSimFP Seminar 2023: 20 March
 - Retard start "Frontiers in Physics" to wait London and Harvard.
 
 
