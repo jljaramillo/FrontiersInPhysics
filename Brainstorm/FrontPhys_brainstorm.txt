@@ -2,20 +2,38 @@
 Editors:
 ========
 
-TODO: Complete affiliations, email.
-
 J.L. Jaramillo
+E-mail: Jose-Luis.Jaramillo-Martin@u-bourgogne.fr
+Institut de Mathématiques de Bourgogne, Université de Bourgogne, France.
+
 R.P. Macedo
+Niels Bohr Institute, University of Copenhagen, Denmark
+E-mail: rodrigo.macedo@nbi.ku.dk
+
 E. Gasperin
+E-mail: edgar.gasperin@tecnico.ulisboa.pt
+Center for Astrophysics and Gravitation (CENTRA), Instituto Superior Técnico, University of Lisbon, Portugal.
 
 
-Title:
+
+Title: (Max. 150 characters)
 ======
+Quasi-Normal Modes, Non-Selfadjoint Operators and Pseudospectrum: an interdisciplinary approach
+(Pseudospectrum as a crossroad in physics and mathematics: spectral and dynamical aspects non-selfadjoint operators)
 
+Keywords: (Min. 5 words)
+=========
+Quasi-normal modes, non-selfadjoint operators, pseudospectrum, non-normal dynamics, hyperboloidal approach, spectral instability, transients, pseudo-resonances
 
-Abstract:
+Abstract: (Maximum 500 words).
 =========
 
+Background (approx. 100-150 words):
+Quasi-normal modes, namely the complex frequencies encoding the linear response of resonators under tiny perturbations, have acquired major importance in recent years in different settings of physics, ranging from astrophysical and theoretical problems in gravitational physics to the study of scattering properties of optical nanoresonators. Beyond physics, the subject makes direct contact with the study of the spectral and dynamical properties of non-selfadjoint operators, a very active area of current research in applied and fundamental mathematics with direct applications in physics, from hydrodynamics and turbulence to non-Hermitian quantum mechanics. In spite of these converging and complementary interests and working knowledge, research interchanges among the involved subcommunities seem quite scarce. In this setting, the central notion of Pseudospectrum provides a systematic framework furnishing a common arena to this interdisciplinary field of research, namely a crossroad in the physics and mathematics of open non-conservative systems.
+
+
+
+Hyperboloidal slices, spectral instability, dynamical transients, spectrum 
 
 
 Contributors:
@@ -64,6 +82,10 @@ A. Ashtekar
 
 Statistical Physics:
 xiangyu cao <xiangyu.cao08@gmail.com>
+
+
+
+Alberto Sah
 
 
 
