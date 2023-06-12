@@ -48,73 +48,284 @@ Contributors:
 TODO: Complete affiliations, email.
 
 Math:
-J. Sjöstrand
-M. Zworksi
-N. Trefethen
-M. Embree
-T. Daudé
-D. Krejčiřík
-R. Teixeira da Costa (?)
-M. Vogel
-S. Nonnenmacher
+- J. Sjöstrand  OK
+Université de Bourgogne, France
+johannes.sjostrand@u-bourgogne.fr
 
-Physics:
-P. Bizon
-O. Reula
-P. Lalanne (optics)
-T. Torres and Edinburgh group?
-M. Colbrook
-Ashida, Gong, and Ueda
-P. J. Schmid (hydro)
+- M. Zworksi  OK
+University of California, Berkeley, USA
+zworski@math.berkeley.edu
 
-Astrophysics:
-E. Berti
-V. Cardoso
-Qian et al.
-HUAN YANG 
-JUN ZHANG
-Zhidenko
-Konoplya 
-Kyriakos Destounis
-Valentin Boyanov
-Koutarou Kyutoku, Hayato Motohashi, Takahiro Tanaka
+- N. Trefethen  OK
+Oxford University, U.K.
+trefethen@maths.ox.ac.uk
+
+- M. Embree  OK
+Virginia Tech, USA
+embree@vt.edu
+
+- D. Krejčiřík  OK
+Czech Technical University in Prague, Czech Republic 
+David.Krejcirik@fjfi.cvut.cz
+
+- Alexei Iantchenko OK
+alexei.iantchenko@mau.se
+
+- M. Vogel OK
+Université de Strasbourg, France
+vogel@math.unistra.fr
+
+- S. Nonnenmacher  OK
+Université Paris-Sud 
+stephane.nonnenmacher@math.u-psud.fr
+
+- P. Bizon  OK
+Jagiellonian University. Poland
+bizon@th.if.uj.edu.pl
+
+- Maciej Maliborski   OK
+University of Vienna, Austria
+maciej.maliborski@univie.ac.at
+
+- Bradley Cownden   OK
+Jagiellonian University, Kraków, Poland
+bradley.cownden@uj.edu.pl
+
+- O. Reula  OK
+Universidad Nacional de Córdoba
+oreula@unc.edu.ar
+
+- Philippe Lalanne OK
+Laboratoire photonique, numérique et nanosciences, France
+philippe.lalanne@institutoptique.fr
+
+- Alexei Iantchenko OK
+alexei.iantchenko@mau.se
+Malmö university (Sweden)
+
+- Matthew Colbrook  OK
+University of Cambridge
+m.colbrook@damtp.cam.ac.uk 
+
+- Yuto Ashida   OK
+The University of Tokyo
+ashida@ap.t.u-tokyo.ac.jp
+
+- Zongping Gong   OK
+The University of Tokyo
+gong_at_ap.t.u-tokyo.ac.jp
+
+- Masahito Ueda   OK
+The University of Tokyo
+ueda@phys.s.u-tokyo.ac.jp
+
+- Peter Schmid  OK
+King Abdullah University of Science and Technology, Saudi Arabia
+peter.schmid@kaust.edu.sa
+
+- Pui Tang Leung  OK
+The Chinese University of Hong Kong
+ptleung@cuhk.edu.hk
+
+- Alberto Saa  OK
+University of Campinas 
+asaa@ime.unicamp.br
+
+- Emanuele Berti OK
+Johns Hopkins University, USA
+berti@jhu.edu 
+
+- Vitor Cardoso  OK
+Instituto Superior Técnico Lisboa, Portugal
+vitor.cardoso@tecnico.ulisboa.pt
+
+- Wei-Liang Qian   OK
+Universidade de São Paulo, Brazil
+wlqian@usp.br
+
+- Hang Liu    OK
+Shanghai Jiao Tong University, China
+hangliu@sjtu.edu.cn
+ 
+- Huan Yang   OK
+Perimeter Institute for Theoretical Physics, Canada
+hyang@perimeterinstitute.ca
+
+- Jun Zhang  OK
+University of Chinese Academy of Sciences, China
+zhangjun@ucas.ac.cn
+
+- Roman Konoplya  OK
+Silesian University in Opava,  Czech Republic
+roman.konoplya@gmail.com
+
+- Theo Torres  OK
+Aix Marseille Univ. France
+theotorresv@gmail.com
+
+- Sam Dolan   OK
+University of Sheffield, UK
+s.dolan@sheffield.ac.uk
+
+- Antonin Coutant   OK
+Aix Marseille Univ. France
+coutant@lma.cnrs-mrs.fr
+
+- Alexander Zhidenko
+ Universidade Federal do ABC (UFABC) Brazil
+olexandr.zhydenko@ufabc.edu.br
+
+- Lamis Al Sheikh   OK
+lamis983@gmail.com
+
+- Karim Noui   OK
+Université Paris-Saclay, France
+karim.noui@ijclab.in2p3.fr
+ 
+- Enrico Barausse  OK
+SISSA, Trieste, Italy
+barausse@sissa.it
+
+- Paolo Pani   OK
+Sapienza Università di Roma, Italy
+paolo.pani@uniroma1.it
+
+- Antoine Petiteau  OK
+APC, Université Paris Cité, France
+antoine.petiteau@cea.fr
+
+- Chantal Pitte   OK
+APC, Université Paris Cité, France
+chantal.pitte@cea.fr
+
+- Quentin Baghi OK
+APC, Université Paris Cité, France
+quentin.baghi@cea.fr
+  
+- Marc Besancon OK
+CEA, France
+marc.besancon@cea.fr
+
+- David Langlois OK
+APC, Université Paris Cité, France
+langlois@APC.UNIV-PARIS7.FR
+
+- Juan M. Aguirregabiria  OK
+Basque Country University, Spain
+juanmari.aguirregabiria@ehu.eus
+
+- Kyriakos Destounis  OK
+Sapienza Università di Roma, Italy
+kyriakos.destounis@uniroma1.it
+
+-Valentin Boyanov  OK
+Instituto Superior Técnico Lisboa, Portugal
+valentinboyanov@tecnico.ulisboa.pt
+
+- Koutarou Kyutoku  OK
+Kyoto University, Japan
+kyutoku@tap.scphys.kyoto-u.ac.jp 
+
+- Hayato Motohashi  OK
+Kogakuin University, Japan
+motohashi@cc.kogakuin.ac.jp
+
+- Takahiro Tanaka   OK
+Kyoto University, Japan
+t.tanaka@tap.scphys.kyoto-u.ac.jp
+
+- Ramin G. Daghigh  OK
+University of Minnesota, USA
+ramin.daghigh@metrostate.edu
+
+- Michael D. Green  OK
+Metropolitan State University, Saint Paul, USA
+michael.green@metrostate.edu
+
+- Jodin C. Morey   OK
+University of Minnesota, USA
+moreyjc@umn.edu
+
+- Subhodeep Sarkar  OK
+Indian Institute of Information Technology, Uttar Pradesh, India
+subhodeep.sarkar1@gmail.com
+
+- Mostafizur Rahman   OK
+Indian Institute of Technology, Gujarat, India
+mostafizur.r@iitgn.ac.in
+
+- Sumanta Chakraborty  OK
+School of Physical Sciences, Indian Association for the Cultivation of Science, Kolkata, India
+tpsc@iacs.res.in
+
+- Stephen R. Green  OK
+Albert Einstein Institute, Germany
+stephen.green@aei.mpg.de
+
+- Stefan Hollands   OK
+Universität Leipzig, Germany
+stefan.hollands@uni-leipzig.de
+
+- Laura Sberna   OK
+Albert Einstein Institute, Germany
+laura.sberna@aei.mpg.de
+
+- Vahid Toomani   OK
+Universität Leipzig, Germany
+vahid.toomani@uni-leipzig.de
+
+- Peter Zimmerman  OK
+zimmerator@protonmail.com
+
+- Anil Zenginoglu   OK
+University of Maryland, USA
+anil@umd.edu
+
+- Dejan Gajic    OK
+Universität Leipzig, Germany
+dejan.gajic@uni-leipzig.de
+  
+- Claude Warnick   OK
+University of Cambridge, UK
+c.m.warnick@maths.cam.ac.uk
+
+- Dietrich Häfner   OK
+Université Grenoble, France 
+Dietrich.Hafner@univ-grenoble-alpes.fr
+
+- Xiangyu Cao   OK
+Ecole Normale Superieure, CNRS, France
+xiangyu.cao@ens.fr
+
+- István Rácz OK
+Wigner Research Centre for Physics, Hungary
+racz.istvan@wigner.hu
+
+- Thierry Daudé
+Université Besancon, France
+thierry.daude@univ-fcomte.fr
+
+- Peter Hinz
+ETH Zurich, Switzerland
+peter.hintz@math.ethz.ch
+
+- Semyon Dyatlov
+Massachusetts Institute of Technology, USA
+dyatlov@math.mit.edu
 
 
-Hyperboloidal:
-Gajic, Warnick
-D. Hilditch
-A. Zenginoglu
-A. Ashtekar
+- D. Hilditch
 
-Statistical Physics:
-xiangyu cao <xiangyu.cao08@gmail.com>
+- A. Ashtekar
+
+- R. Teixeira da Costa
 
 
 
-Alberto Sah
-
-
-
-Asymptotic symmetries?
-
-
-
-To discuss 13/01/2022:
-
-- Matthew Colbrook
-- Rim Al Majdalany
-- Harvard CMSA GR Seminar Invitation: March 
-- Bradley Cownden
-- QSimFP Seminar 2023: 20 March
-- Retard start "Frontiers in Physics" to wait London and Harvard.
 
 
 
 Issues:
-
-- Fees: most agreements with first-world countries... (case of Spain
-is... curious).
-- Aggresitivity and timescales.
 - All articles types in:
 https://www.frontiersin.org/journals/physics/for-authors/article-types
 are allowed?
