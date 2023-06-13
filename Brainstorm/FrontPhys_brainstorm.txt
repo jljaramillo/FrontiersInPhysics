@@ -301,24 +301,34 @@ xiangyu.cao@ens.fr
 Wigner Research Centre for Physics, Hungary
 racz.istvan@wigner.hu
 
-- Thierry Daudé
+- Thierry Daudé   OK
 Université Besancon, France
 thierry.daude@univ-fcomte.fr
 
-- Peter Hinz
+- Peter Hinz   OK
 ETH Zurich, Switzerland
 peter.hintz@math.ethz.ch
 
-- Semyon Dyatlov
+- Semyon Dyatlov    OK
 Massachusetts Institute of Technology, USA
 dyatlov@math.mit.edu
+
+- Rita Teixeira da Costa   OK
+University of Cambridge, UK; Princeton University, USA
+rita.t.costa@princeton.edu
+
+- Chris Stevens   OK
+University of Canterbury, New Zealand
+chris.stevens@canterbury.ac.nz
+
+- Joerg Frauendiener    OK
+University of Otago, New Zealand
+joergf@maths.otago.ac.nz
 
 
 - D. Hilditch
 
 - A. Ashtekar
-
-- R. Teixeira da Costa
 
 
 
